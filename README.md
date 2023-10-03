@@ -10,6 +10,5 @@
   </h4>
 </div>
 <h3>&#128104;&#8205;&#128187; Developer : <a href='https://t.me/Mr_D4rk'>T.me/Mr_D4rk</a><br>💠 Version : 1.0<br>💠 PHP Version : 5.4.7 < 8.2</h3><br>
-<img src="https://github.com/Soltanmsb/telegram-info/assets/103173374/7303ed15-c6c5-418f-8310-8f84fa9a2baf" alt="Soltanmsb/Telegram-info">
-
+<img src="https://github.com/Soltanmsb/Telegram-info/assets/103173374/45995aad-c989-4651-a695-a63ae84ed84c" alt="Soltanmsb/Telegram-info">
 <h4 align="center">⌜ Coded with love ☕❤ ⌟</h4>
